@@ -1,7 +1,7 @@
-# Count-culator
-Count in a click of a button.<br>
+# Scrimba Projects
+All of my Scrimba projects BY FAR.<br>
 <br>
-Made with love by <a href="https://github.com/Cr1sOnTop">Cr1sOnTop</a> on a journey to learn JavaScript!<br>
+Made with love by <a href="https://github.com/Cr1sOnTop">Cr1sOnTop</a> on a journey to learn how to code!<br>
 <br>
 Enjoy!
 
